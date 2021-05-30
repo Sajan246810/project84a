@@ -1,5 +1,5 @@
 var canvas1 = document.getElementById("my_canvas");
-var ctx = canvas.getContext('2d');
+var ctx = canvas1.getContext('2d');
 var car1_width = 120;
 var car1_height = 70;
 var car_1_image = "car1.png";
